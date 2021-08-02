@@ -1,2 +1,4 @@
-# BMI-UI
-Hands-on some Material Widget allowing to calculate BMI
+# bmi_calculator
+
+A new Flutter application.
+
